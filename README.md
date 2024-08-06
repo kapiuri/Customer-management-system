@@ -1,3 +1,1 @@
-#  Customer management system
-
-Customer management system
+# Sistema de gestión de clientes
